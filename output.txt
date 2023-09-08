@@ -1,0 +1,4 @@
+Download Size: 15
+HTTP Code: 200
+Total Time (ms): 795.318
+{"eventType":"System_Check_GH","resource":{"resourceName":"SAP CP Automation Pilot","resourceType":"service"},"severity":"INFO","category":"NOTIFICATION","subject":"Status of system {"status":"UP"}","body":"Status:
